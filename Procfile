@@ -1,1 +1,1 @@
-web: ./target/release/my-cors
+web: ./target/release/corac
