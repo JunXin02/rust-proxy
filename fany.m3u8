@@ -1,20 +1,20 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=426x240,NAME="240p"
+#EXTINF:4.0,
 https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/240p.m3u8?hdntl=Expires=1782567424~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WLx6WDQcZ1YZKfXz9GZgJtyOkCUI413cLXGByMH31-N1ynzSTXsWr8_9eUVtD5Fs3mceXvPJhUd2HpmccHWNQ4O
 
-#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,NAME="360p"
+#EXTINF:4.0,
 https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/360p.m3u8?hdntl=Expires=1782567424~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WLx6WDQcZ1YZKfXz9GZgJtyOkCUI413cLXGByMH31-N1ynzSTXsWr8_9eUVtD5Fs3mceXvPJhUd2HpmccHWNQ4O
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=854x480,NAME="480p"
+#EXTINF:4.0,
 https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/480p.m3u8?hdntl=Expires=1782567424~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WLx6WDQcZ1YZKfXz9GZgJtyOkCUI413cLXGByMH31-N1ynzSTXsWr8_9eUVtD5Fs3mceXvPJhUd2HpmccHWNQ4O
 
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=960x540,NAME="540p"
+#EXTINF:4.0,
 https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/540p.m3u8?hdntl=Expires=1782567424~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WLx6WDQcZ1YZKfXz9GZgJtyOkCUI413cLXGByMH31-N1ynzSTXsWr8_9eUVtD5Fs3mceXvPJhUd2HpmccHWNQ4O
 
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720,NAME="720p"
+#EXTINF:4.0,
 https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/720p.m3u8?hdntl=Expires=1782567424~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WLx6WDQcZ1YZKfXz9GZgJtyOkCUI413cLXGByMH31-N1ynzSTXsWr8_9eUVtD5Fs3mceXvPJhUd2HpmccHWNQ4O
 
-#EXT-X-STREAM-INF:BANDWIDTH=6500000,RESOLUTION=1920x1080,NAME="1080p"
+#EXTINF:4.0,
 https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782567424~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a181389_1ta-di_h264/*~Signature=ARZJ1WLx6WDQcZ1YZKfXz9GZgJtyOkCUI413cLXGByMH31-N1ynzSTXsWr8_9eUVtD5Fs3mceXvPJhUd2HpmccHWNQ4O
